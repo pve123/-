@@ -21,7 +21,7 @@
 - [x] Question CRUD
 - [x] Member Lookup
 - [x] Question error management
-- [x] Bad Member Management
+- [x] Bad member management
 
 
 ## 사용한 툴 
