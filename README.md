@@ -1,7 +1,7 @@
 # JavaProject ( 팀 )
 
-## TeamName : Quizplay
-## summary : JAVA만을 활용한 수도맞추기 게임과 OX퀴즈게임
+### TeamName : Quizplay
+### summary : JAVA만을 활용한 수도맞추기 게임과 OX퀴즈게임
 
 
 ## Features
