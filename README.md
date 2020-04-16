@@ -11,7 +11,7 @@
 - [x] Search 
 - [x] Paging
 - [x] Number of comments
-- [O] Board Excel Download
+- [ ] Board Excel Download
 
 ## 사용한 툴 
 
