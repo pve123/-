@@ -1,6 +1,23 @@
-Team Name : QuizPLAY(팀프로젝트)
-===================
-#### -   JAVA만을 활용한 수도맞추기 게임(내가맡은역할)
-###### •   CRUD를 이용한 회원관리 ( 중복체크, 가입,수정 삭제, 로그아웃,탈퇴, 아이디 비밀번호에 관한 정규표현식 적용)   
-###### •   대기실 ui 및 시간적용(실시간 타이머) 쓰레드 사용
-###### •   소켓프로그래밍을 활용( 게임방 입장 후 회원4명이 레디를 하면 게임시작 10초마다 같은 문제를 중복없이 4명클라이언트에게 브로드캐스팅 게임이 끝난후 채팅창에 각 회원이 맞힌 개수를 뿌림)
+# JavaProject ( 팀 )
+
+## TeamName : Quizplay
+## summary : JAVA만을 활용한 수도맞추기 게임과 OX퀴즈게임
+
+
+## Features
+
+- [x] Reply CRUD
+- [x] Board CRUD
+- [x] Search 
+- [x] Paging
+- [x] Number of comments
+- [] Board Excel Download
+
+## 사용한 툴 
+
+#### - Development tool : Eclipse 
+#### - DB tool : sqldeveloper
+#### - Class Diagram : ObjectAid ( http://www.objectaid.com/update/1.1/ )
+#### - ERD : ERMaster :( https://justinkwony.github.io/ermaster-nhit/update-site/ )
+
+
