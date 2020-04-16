@@ -6,12 +6,23 @@
 
 ## Features
 
-- [x] Reply CRUD
-- [x] Board CRUD
-- [x] Search 
-- [x] Paging
-- [x] Number of comments
-- [ ] Board Excel Download
+- [x] Sign up
+- [x] Find ID
+- [x] Find password / Password change
+- [x] Withdrawal
+- [x] Logout
+- [x] Realtime
+- [ ] Room list
+- [x] Capital game
+- [ ] OX game
+- [x] Chatting / Game chat
+- [x] Views visitor
+- [x] Admin ui
+- [x] Question CRUD
+- [x] Member Lookup
+- [x] Question error management
+- [x] Bad Member Management
+
 
 ## 사용한 툴 
 
